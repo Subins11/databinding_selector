@@ -1,0 +1,22 @@
+*{
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.navbar{
+    width: 100%;
+    height: auto;
+    justify-content: left;
+    padding-top: 20px;
+    a{
+    padding-left: 60px;
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+    color: darkcyan;
+    }
+    a:hover{
+        color: coral;
+        transition: 0.3s;
+    }
+}
